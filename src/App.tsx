@@ -467,7 +467,7 @@ function App() {
                   <div className="p-4">
                     <div className="flex space-x-2">
                       <a 
-                        href="https://github.com" 
+                        href="https://github.com/rejzzzz/portfolio-new" 
                         target="_blank" 
                         rel="noopener noreferrer" 
                         className="p-2 bg-white rounded-full text-gray-800 hover:text-indigo-600 transition-colors"
@@ -475,7 +475,7 @@ function App() {
                         <GitHub size={18} />
                       </a>
                       <a 
-                        href="https://github.com" 
+                        href="https://rej-portfolio.vercel.app/" 
                         target="_blank" 
                         rel="noopener noreferrer" 
                         className="p-2 bg-white rounded-full text-gray-800 hover:text-indigo-600 transition-colors"
